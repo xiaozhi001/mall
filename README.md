@@ -36,4 +36,9 @@ npm install normalize.css --save
 ```
 npm install vue-router --save
 ```
-### 项目的模块划分tabbar->路由映射关系
+### 7.项目的模块划分tabbar->路由映射关系
+
+### 8.封装网络请求
+```
+npm install axios --save
+```
